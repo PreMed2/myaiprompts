@@ -1,0 +1,27 @@
+---- MINECRAFT PROMPT: ----
+
+Task: Image Style Fusion and TransformationSubject Preservation (Do NOT Minecraftinize): The main human subject from the reference photo must remain 100% realistic, human, and photorealistic. Do NOT convert the person into blocks, voxels, or a pixelated skin. Maintain their actual facial features, real hair textures, and organic clothing details exactly as they appear in the original photo. Keep the exact same human pose, position, and framing.Environment Transformation: Convert only the environment and background into a cinematic Minecraft universe. Reconstruct the ground, buildings, walls, trees, and sky using distinct, textured 3D cubic voxels and block grids. Trees should be block logs/leaves, and the ground should be grass blocks.Lighting & Integration: Blend the realistic human subject seamlessly into the blocky world using high-end Minecraft RTX shader physics. The volumetric sunlight, glow from local lights, and crisp geometric shadows from the blocky environment must cast naturally onto the photorealistic human subject. High resolution, 8k render, hyper-realistic character vs. stylized voxel world.
+
+---- ANIME GIRL PROMPT: ----
+
+Ultra-realistic grainy mirror selfie with strong natural motion blur, soft focus, dirty mirror smudges, lens haze, overexposed phone flash, and authentic low-light smartphone imperfections. Shot on an iPhone 17 Pro Max in vertical 9:16 aspect ratio. The image should feel like a real late-night Instagram story photo, not an AI render. Scene: dim messy bedroom at night with warm ambient lighting, unmade bed, wrinkled blankets, scattered clothes, anime posters, random bags, and subtle chaos in the background. Cozy but crowded anime convention afterparty vibe.Center foreground: a young man based EXACTLY on the provided reference image. Preserve 100% of his real facial structure, messy curly hairstyle, jawline, lips, eye shape, skin tone, facial proportions, and neutral tired expression. Make him naturally attractive and realistic without looking edited or artificial. He wears a loose oversized black shirt.A beautiful cosplay girl is holding the phone for the mirror selfie from a slightly high angle while smiling naturally.Another girl gently touches the young man's cheek while leaning close to him affectionately.Surround him with realistic cosplay versions of ALL these anime waifus integrated naturally into the composition: Kei Karuizawa, Miku Nakano, Hina Tachibana, Rem, Reno, Honami Ichinose, Setsuna, Rin Tohsaka, Ushio Kofune, Raphtalia, Sakura Matou, Mavis Vermillion, Elfaria Albis Serfort, Marin Kitagawa, Shizuku Yaegashi, Hakari Hanazono, Ichika Nakano, Sasha Necron, Mio Kofune, and Erza Scarlet.Each girl should retain her iconic hairstyle color, recognizable accessories, outfit inspiration, and personality traits, but rendered as believable real-life cosplay girls instead of anime art.The composition should feel crowded, intimate, spontaneous, and slightly chaotic:some girls leaning into frame from behindsome partially cropped naturallyheights and camera anglesplayful peace signsteasing smilessleepy expressionspouty facesdirect flash starescandid movement blurStrong realistic details:natural skin texturevisible wig fibersimperfect makeupslight motion blur on faces and handsuneven flash shadows
+
+---- ANIME FEMBOY PROMPT: ----
+
+Surround him with realistic cosplay versions of ALL these popular femboy and feminine-presenting male characters integrated naturally into the composition: Astolfo, Felix Argyle, Hideri Kanzaki, Nagisa Shiota, Ruka Urushibara, Gasper Vladi, Totsuka Saika, Chihiro Fujisaki, Kuranosuke Koibuchi, Mariandale, Gowther, Venti, Xingqiu, Lyney, and Saika Totsuka.
+Each character should retain their iconic hairstyle color, recognizable accessories, outfit inspiration, and personality traits, but rendered as believable real-life male cosplayers and convention attendees instead of anime art.
+The composition should feel crowded, intimate, spontaneous, and slightly chaotic:
+some leaning into frame from behind
+some partially cropped naturally
+varied heights and camera angles
+playful peace signs
+teasing smiles
+sleepy expressions
+pouty faces
+direct flash stares
+candid movement blur
+Strong realistic details:
+natural skin texture
+visible wig fibers
+imperfect makeup
+slight motion blur on faces and hands
